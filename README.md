@@ -81,19 +81,33 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
+
 Head And Tail:
+
 ![image](https://github.com/user-attachments/assets/ca21d781-35a1-46ed-af4a-8ffdd54dcc9f)
+
 Segregating Data To Variables:
+
 ![image](https://github.com/user-attachments/assets/0f4d142f-ee88-42ac-8246-76e006b74eb5)
+
 Displaying Predicted Values:
+
 ![image](https://github.com/user-attachments/assets/d719b6a3-0c6e-45df-be06-9eb729c6489b)
+
 Displaying Actual Values:
+
 ![image](https://github.com/user-attachments/assets/e3d08173-a0f5-4116-a41b-ec1ce3614c11)
+
 Graph Plot For Training Data:
+
 ![image](https://github.com/user-attachments/assets/315ff33f-ecca-4db6-acff-e111713acf87)
+
 Graph plot for test data:
+
 ![image](https://github.com/user-attachments/assets/f5f31e48-f13b-40d6-a655-9bb72e221c84)
+
 MSE MAE RMSE:
+
 ![image](https://github.com/user-attachments/assets/f9984a84-381c-4943-aca0-260a03174970)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
